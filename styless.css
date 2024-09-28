@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #003366; /* Azul fuerte */
+    color: white; /* Texto en blanco */
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #00509E; /* Azul más claro para el header */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    color: white; /* Texto en blanco para la tabla */
+}
+
+th {
+    background-color: #00509E; /* Azul más claro para el encabezado de la tabla */
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "folio": "001",
+        "descripcion": "Zapatos de cuero para hombre",
+        "talla": "42",
+        "precio": 1200
+    },
+    {
+        "folio": "002",
+        "descripcion": "Zapatos deportivos para mujer",
+        "talla": "38",
+        "precio": 800
+    },
+    {
+        "folio": "003",
+        "descripcion": "Botas de lluvia",
+        "talla": "40",
+        "precio": 950
+    },
+    {
+        "folio": "004",
+        "descripcion": "Sandalias de verano",
+        "talla": "36",
+        "precio": 600
+    },
+    {
+        "folio": "005",
+        "descripcion": "Zapatillas de casa",
+        "talla": "39",
+        "precio": 500
+    }
+]

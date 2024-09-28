@@ -1,0 +1,32 @@
+<productos>
+    <producto>
+        <folio>001</folio>
+        <descripcion>Zapatos de cuero para hombre</descripcion>
+        <talla>42</talla>
+        <precio>1200</precio>
+    </producto>
+    <producto>
+        <folio>002</folio>
+        <descripcion>Zapatos deportivos para mujer</descripcion>
+        <talla>38</talla>
+        <precio>800</precio>
+    </producto>
+    <producto>
+        <folio>003</folio>
+        <descripcion>Botas de lluvia</descripcion>
+        <talla>40</talla>
+        <precio>950</precio>
+    </producto>
+    <producto>
+        <folio>004</folio>
+        <descripcion>Sandalias de verano</descripcion>
+        <talla>36</talla>
+        <precio>600</precio>
+    </producto>
+    <producto>
+        <folio>005</folio>
+        <descripcion>Zapatillas de casa</descripcion>
+        <talla>39</talla>
+        <precio>500</precio>
+    </producto>
+</productos>
